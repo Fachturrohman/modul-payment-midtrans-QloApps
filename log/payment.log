@@ -1,0 +1,643 @@
+
+
+13-07-2023 17:47:45  ----  Payment initiated...
+13-07-2023 17:47:45  ----  Environment: sandbox
+13-07-2023 17:47:45  ----  Cart ID: 5
+13-07-2023 17:47:45  ----  Customer ID: 3
+13-07-2023 17:47:45  ----  Currency ID: 1
+13-07-2023 17:47:45  ----  Cart Total: 2200
+13-07-2023 17:47:45  ----  Payment request data: 
+13-07-2023 17:47:45  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689245265235","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":5,"invoice_id":"INV-1689245265235","amount":{"currency_code":"IDR","value":2200,"breakdown":{"item_total":{"currency_code":"IDR","value":2000},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":200},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+13-07-2023 17:47:45  ----  Payment response data: 
+13-07-2023 17:47:45  ----  {"ack":true,"data":null}
+
+15-07-2023 11:10:23  ----  Payment initiated...
+15-07-2023 11:10:23  ----  Environment: sandbox
+15-07-2023 11:10:23  ----  Cart ID: 7
+15-07-2023 11:10:23  ----  Customer ID: 3
+15-07-2023 11:10:23  ----  Currency ID: 1
+15-07-2023 11:10:23  ----  Cart Total: 1650
+15-07-2023 11:10:23  ----  Payment request data: 
+15-07-2023 11:10:23  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689394223243","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":7,"invoice_id":"INV-1689394223243","amount":{"currency_code":"IDR","value":1650,"breakdown":{"item_total":{"currency_code":"IDR","value":1500},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":150},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+15-07-2023 11:10:23  ----  Payment response data: 
+15-07-2023 11:10:23  ----  {"ack":true,"data":null}
+
+15-07-2023 11:35:42  ----  Payment initiated...
+15-07-2023 11:35:42  ----  Environment: sandbox
+15-07-2023 11:35:42  ----  Cart ID: 7
+15-07-2023 11:35:42  ----  Customer ID: 3
+15-07-2023 11:35:42  ----  Currency ID: 1
+15-07-2023 11:35:42  ----  Cart Total: 1650
+15-07-2023 11:35:42  ----  Payment request data: 
+15-07-2023 11:35:42  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689395742293","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":7,"invoice_id":"INV-1689395742293","amount":{"currency_code":"IDR","value":1650,"breakdown":{"item_total":{"currency_code":"IDR","value":1500},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":150},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+15-07-2023 11:36:15  ----  Payment initiated...
+15-07-2023 11:36:15  ----  Environment: sandbox
+15-07-2023 11:36:15  ----  Cart ID: 7
+15-07-2023 11:36:15  ----  Customer ID: 3
+15-07-2023 11:36:15  ----  Currency ID: 1
+15-07-2023 11:36:15  ----  Cart Total: 1650
+15-07-2023 11:36:15  ----  Payment request data: 
+
+15-07-2023 11:36:18  ----  Payment initiated...
+15-07-2023 11:36:18  ----  Environment: sandbox
+15-07-2023 11:36:18  ----  Cart ID: 7
+15-07-2023 11:36:18  ----  Customer ID: 3
+15-07-2023 11:36:18  ----  Currency ID: 1
+15-07-2023 11:36:18  ----  Cart Total: 1650
+15-07-2023 11:36:18  ----  Payment request data: 
+
+15-07-2023 11:36:19  ----  Payment initiated...
+15-07-2023 11:36:19  ----  Environment: sandbox
+15-07-2023 11:36:19  ----  Cart ID: 7
+15-07-2023 11:36:19  ----  Customer ID: 3
+15-07-2023 11:36:19  ----  Currency ID: 1
+15-07-2023 11:36:19  ----  Cart Total: 1650
+15-07-2023 11:36:19  ----  Payment request data: 
+
+15-07-2023 11:36:20  ----  Payment initiated...
+15-07-2023 11:36:20  ----  Environment: sandbox
+15-07-2023 11:36:20  ----  Cart ID: 7
+15-07-2023 11:36:20  ----  Customer ID: 3
+15-07-2023 11:36:20  ----  Currency ID: 1
+15-07-2023 11:36:20  ----  Cart Total: 1650
+15-07-2023 11:36:20  ----  Payment request data: 
+
+15-07-2023 11:36:21  ----  Payment initiated...
+15-07-2023 11:36:21  ----  Environment: sandbox
+15-07-2023 11:36:21  ----  Cart ID: 7
+15-07-2023 11:36:21  ----  Customer ID: 3
+15-07-2023 11:36:21  ----  Currency ID: 1
+15-07-2023 11:36:21  ----  Cart Total: 1650
+15-07-2023 11:36:21  ----  Payment request data: 
+
+15-07-2023 11:36:22  ----  Payment initiated...
+15-07-2023 11:36:22  ----  Environment: sandbox
+15-07-2023 11:36:22  ----  Cart ID: 7
+15-07-2023 11:36:22  ----  Customer ID: 3
+15-07-2023 11:36:22  ----  Currency ID: 1
+15-07-2023 11:36:22  ----  Cart Total: 1650
+15-07-2023 11:36:22  ----  Payment request data: 
+
+15-07-2023 11:36:24  ----  Payment initiated...
+15-07-2023 11:36:24  ----  Environment: sandbox
+15-07-2023 11:36:24  ----  Cart ID: 7
+15-07-2023 11:36:24  ----  Customer ID: 3
+15-07-2023 11:36:24  ----  Currency ID: 1
+15-07-2023 11:36:24  ----  Cart Total: 1650
+15-07-2023 11:36:24  ----  Payment request data: 
+
+15-07-2023 11:36:36  ----  Payment initiated...
+15-07-2023 11:36:36  ----  Environment: sandbox
+15-07-2023 11:36:36  ----  Cart ID: 7
+15-07-2023 11:36:36  ----  Customer ID: 3
+15-07-2023 11:36:36  ----  Currency ID: 1
+15-07-2023 11:36:36  ----  Cart Total: 1650
+15-07-2023 11:36:36  ----  Payment request data: 
+
+15-07-2023 11:39:48  ----  Payment initiated...
+15-07-2023 11:39:48  ----  Environment: sandbox
+15-07-2023 11:39:48  ----  Cart ID: 7
+15-07-2023 11:39:48  ----  Customer ID: 3
+15-07-2023 11:39:48  ----  Currency ID: 1
+15-07-2023 11:39:48  ----  Cart Total: 1650
+15-07-2023 11:39:48  ----  Payment request data: 
+
+15-07-2023 11:40:59  ----  Payment initiated...
+15-07-2023 11:40:59  ----  Environment: sandbox
+15-07-2023 11:40:59  ----  Cart ID: 7
+15-07-2023 11:40:59  ----  Customer ID: 3
+15-07-2023 11:40:59  ----  Currency ID: 1
+15-07-2023 11:40:59  ----  Cart Total: 1650
+15-07-2023 11:40:59  ----  Payment request data: 
+
+15-07-2023 11:41:12  ----  Payment initiated...
+15-07-2023 11:41:12  ----  Environment: sandbox
+15-07-2023 11:41:12  ----  Cart ID: 7
+15-07-2023 11:41:12  ----  Customer ID: 3
+15-07-2023 11:41:12  ----  Currency ID: 1
+15-07-2023 11:41:12  ----  Cart Total: 1650
+15-07-2023 11:41:12  ----  Payment request data: 
+
+15-07-2023 11:42:50  ----  Payment initiated...
+15-07-2023 11:42:51  ----  Environment: sandbox
+15-07-2023 11:42:51  ----  Cart ID: 7
+15-07-2023 11:42:51  ----  Customer ID: 3
+15-07-2023 11:42:51  ----  Currency ID: 1
+15-07-2023 11:42:51  ----  Cart Total: 1650
+15-07-2023 11:42:51  ----  Payment request data: 
+
+15-07-2023 11:43:01  ----  Payment initiated...
+15-07-2023 11:43:01  ----  Environment: sandbox
+15-07-2023 11:43:01  ----  Cart ID: 7
+15-07-2023 11:43:01  ----  Customer ID: 3
+15-07-2023 11:43:01  ----  Currency ID: 1
+15-07-2023 11:43:01  ----  Cart Total: 1650
+15-07-2023 11:43:01  ----  Payment request data: 
+15-07-2023 11:43:01  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689396181658","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":7,"invoice_id":"INV-1689396181658","amount":{"currency_code":"IDR","value":1650,"breakdown":{"item_total":{"currency_code":"IDR","value":1500},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":150},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+15-07-2023 11:43:04  ----  Payment initiated...
+15-07-2023 11:43:04  ----  Environment: sandbox
+15-07-2023 11:43:04  ----  Cart ID: 7
+15-07-2023 11:43:04  ----  Customer ID: 3
+15-07-2023 11:43:04  ----  Currency ID: 1
+15-07-2023 11:43:04  ----  Cart Total: 1650
+15-07-2023 11:43:04  ----  Payment request data: 
+15-07-2023 11:43:04  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689396184293","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":7,"invoice_id":"INV-1689396184293","amount":{"currency_code":"IDR","value":1650,"breakdown":{"item_total":{"currency_code":"IDR","value":1500},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":150},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+15-07-2023 11:43:05  ----  Payment initiated...
+15-07-2023 11:43:05  ----  Environment: sandbox
+15-07-2023 11:43:05  ----  Cart ID: 7
+15-07-2023 11:43:05  ----  Customer ID: 3
+15-07-2023 11:43:05  ----  Currency ID: 1
+15-07-2023 11:43:05  ----  Cart Total: 1650
+15-07-2023 11:43:05  ----  Payment request data: 
+15-07-2023 11:43:05  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689396185667","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":7,"invoice_id":"INV-1689396185667","amount":{"currency_code":"IDR","value":1650,"breakdown":{"item_total":{"currency_code":"IDR","value":1500},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":150},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+15-07-2023 11:43:07  ----  Payment initiated...
+15-07-2023 11:43:07  ----  Environment: sandbox
+15-07-2023 11:43:07  ----  Cart ID: 7
+15-07-2023 11:43:07  ----  Customer ID: 3
+15-07-2023 11:43:07  ----  Currency ID: 1
+15-07-2023 11:43:07  ----  Cart Total: 1650
+15-07-2023 11:43:07  ----  Payment request data: 
+15-07-2023 11:43:07  ----  {"original":{"intent":"CAPTURE","payer":{"name":{"given_name":"fatur","surname":"rohman"},"email_address":"fatur@sekolahan.id","address":{"address_line_1":"Monticello Dr, Montgomery, AL 36117, USA","address_line_2":"","admin_area_2":"Demo City","admin_area_1":"AC","postal_code":"22222","country_code":"ID"}},"purchase_units":[{"reference_id":"1689396187461","description":"Payment for MyHotel","soft_descriptor":"MyHotel","payment_group_id":1,"custom_id":7,"invoice_id":"INV-1689396187461","amount":{"currency_code":"IDR","value":1650,"breakdown":{"item_total":{"currency_code":"IDR","value":1500},"shipping":{"currency_code":"IDR","value":0},"shipping_discount":{"currency_code":"IDR","value":0},"tax_total":{"currency_code":"IDR","value":150},"discount":{"currency_code":"IDR","value":0}}},"payee":{"merchant_id":false}}],"application_context":{"user_action":"PAY_NOW","shipping_preference":"NO_SHIPPING"}}}
+
+15-07-2023 14:26:53  ----  Payment initiated...
+15-07-2023 14:26:53  ----  Environment: sandbox
+15-07-2023 14:26:53  ----  Cart ID: 7
+15-07-2023 14:26:53  ----  Customer ID: 3
+15-07-2023 14:26:53  ----  Currency ID: 1
+15-07-2023 14:26:53  ----  Cart Total: 1650
+15-07-2023 14:26:53  ----  Payment request data: 
+
+15-07-2023 14:30:19  ----  Payment initiated...
+15-07-2023 14:30:19  ----  Environment: sandbox
+15-07-2023 14:30:19  ----  Cart ID: 7
+15-07-2023 14:30:19  ----  Customer ID: 3
+15-07-2023 14:30:19  ----  Currency ID: 1
+15-07-2023 14:30:19  ----  Cart Total: 1650
+15-07-2023 14:30:19  ----  Payment request data: 
+
+15-07-2023 14:32:24  ----  Payment initiated...
+15-07-2023 14:32:24  ----  Environment: sandbox
+15-07-2023 14:32:24  ----  Cart ID: 7
+15-07-2023 14:32:24  ----  Customer ID: 3
+15-07-2023 14:32:24  ----  Currency ID: 1
+15-07-2023 14:32:24  ----  Cart Total: 1650
+15-07-2023 14:32:24  ----  Payment request data: 
+
+15-07-2023 14:32:34  ----  Payment initiated...
+15-07-2023 14:32:34  ----  Environment: sandbox
+15-07-2023 14:32:34  ----  Cart ID: 7
+15-07-2023 14:32:34  ----  Customer ID: 3
+15-07-2023 14:32:34  ----  Currency ID: 1
+15-07-2023 14:32:34  ----  Cart Total: 1650
+15-07-2023 14:32:34  ----  Payment request data: 
+
+15-07-2023 14:33:01  ----  Payment initiated...
+15-07-2023 14:33:01  ----  Environment: sandbox
+15-07-2023 14:33:01  ----  Cart ID: 7
+15-07-2023 14:33:01  ----  Customer ID: 3
+15-07-2023 14:33:01  ----  Currency ID: 1
+15-07-2023 14:33:01  ----  Cart Total: 1650
+15-07-2023 14:33:01  ----  Payment request data: 
+
+15-07-2023 14:34:22  ----  Payment initiated...
+15-07-2023 14:34:22  ----  Environment: sandbox
+15-07-2023 14:34:22  ----  Cart ID: 7
+15-07-2023 14:34:22  ----  Customer ID: 3
+15-07-2023 14:34:22  ----  Currency ID: 1
+15-07-2023 14:34:22  ----  Cart Total: 1650
+15-07-2023 14:34:22  ----  Payment request data: 
+
+15-07-2023 14:34:37  ----  Payment initiated...
+15-07-2023 14:34:37  ----  Environment: sandbox
+15-07-2023 14:34:37  ----  Cart ID: 7
+15-07-2023 14:34:37  ----  Customer ID: 3
+15-07-2023 14:34:37  ----  Currency ID: 1
+15-07-2023 14:34:37  ----  Cart Total: 1650
+15-07-2023 14:34:37  ----  Payment request data: 
+
+15-07-2023 14:36:16  ----  Payment initiated...
+15-07-2023 14:36:16  ----  Environment: sandbox
+15-07-2023 14:36:16  ----  Cart ID: 7
+15-07-2023 14:36:16  ----  Customer ID: 3
+15-07-2023 14:36:16  ----  Currency ID: 1
+15-07-2023 14:36:16  ----  Cart Total: 1650
+15-07-2023 14:36:16  ----  Payment request data: 
+
+15-07-2023 14:37:26  ----  Payment initiated...
+15-07-2023 14:37:26  ----  Environment: sandbox
+15-07-2023 14:37:26  ----  Cart ID: 7
+15-07-2023 14:37:26  ----  Customer ID: 3
+15-07-2023 14:37:26  ----  Currency ID: 1
+15-07-2023 14:37:26  ----  Cart Total: 1650
+15-07-2023 14:37:26  ----  Payment request data: 
+
+15-07-2023 14:37:37  ----  Payment initiated...
+15-07-2023 14:37:37  ----  Environment: sandbox
+15-07-2023 14:37:37  ----  Cart ID: 7
+15-07-2023 14:37:37  ----  Customer ID: 3
+15-07-2023 14:37:37  ----  Currency ID: 1
+15-07-2023 14:37:37  ----  Cart Total: 1650
+15-07-2023 14:37:37  ----  Payment request data: 
+
+15-07-2023 14:40:48  ----  Payment initiated...
+15-07-2023 14:40:48  ----  Environment: sandbox
+15-07-2023 14:40:48  ----  Cart ID: 7
+15-07-2023 14:40:48  ----  Customer ID: 3
+15-07-2023 14:40:48  ----  Currency ID: 1
+15-07-2023 14:40:48  ----  Cart Total: 1650
+15-07-2023 14:40:48  ----  Payment request data: 
+
+15-07-2023 14:40:57  ----  Payment initiated...
+15-07-2023 14:40:57  ----  Environment: sandbox
+15-07-2023 14:40:57  ----  Cart ID: 7
+15-07-2023 14:40:57  ----  Customer ID: 3
+15-07-2023 14:40:57  ----  Currency ID: 1
+15-07-2023 14:40:57  ----  Cart Total: 1650
+15-07-2023 14:40:57  ----  Payment request data: 
+
+15-07-2023 14:41:33  ----  Payment initiated...
+15-07-2023 14:41:33  ----  Environment: sandbox
+15-07-2023 14:41:33  ----  Cart ID: 7
+15-07-2023 14:41:33  ----  Customer ID: 3
+15-07-2023 14:41:33  ----  Currency ID: 1
+15-07-2023 14:41:33  ----  Cart Total: 1650
+15-07-2023 14:41:33  ----  Payment request data: 
+
+15-07-2023 14:41:50  ----  Payment initiated...
+15-07-2023 14:41:50  ----  Environment: sandbox
+15-07-2023 14:41:50  ----  Cart ID: 7
+15-07-2023 14:41:50  ----  Customer ID: 3
+15-07-2023 14:41:50  ----  Currency ID: 1
+15-07-2023 14:41:50  ----  Cart Total: 1650
+15-07-2023 14:41:50  ----  Payment request data: 
+
+15-07-2023 14:41:58  ----  Payment initiated...
+15-07-2023 14:41:58  ----  Environment: sandbox
+15-07-2023 14:41:58  ----  Cart ID: 7
+15-07-2023 14:41:58  ----  Customer ID: 3
+15-07-2023 14:41:58  ----  Currency ID: 1
+15-07-2023 14:41:58  ----  Cart Total: 1650
+15-07-2023 14:41:58  ----  Payment request data: 
+
+15-07-2023 14:42:23  ----  Payment initiated...
+15-07-2023 14:42:23  ----  Environment: sandbox
+15-07-2023 14:42:23  ----  Cart ID: 7
+15-07-2023 14:42:23  ----  Customer ID: 3
+15-07-2023 14:42:23  ----  Currency ID: 1
+15-07-2023 14:42:23  ----  Cart Total: 1650
+15-07-2023 14:42:23  ----  Payment request data: 
+
+15-07-2023 14:42:50  ----  Payment initiated...
+15-07-2023 14:42:50  ----  Environment: sandbox
+15-07-2023 14:42:50  ----  Cart ID: 7
+15-07-2023 14:42:50  ----  Customer ID: 3
+15-07-2023 14:42:50  ----  Currency ID: 1
+15-07-2023 14:42:50  ----  Cart Total: 1650
+15-07-2023 14:42:50  ----  Payment request data: 
+
+15-07-2023 14:43:06  ----  Payment initiated...
+15-07-2023 14:43:06  ----  Environment: sandbox
+15-07-2023 14:43:06  ----  Cart ID: 7
+15-07-2023 14:43:06  ----  Customer ID: 3
+15-07-2023 14:43:06  ----  Currency ID: 1
+15-07-2023 14:43:06  ----  Cart Total: 1650
+15-07-2023 14:43:06  ----  Payment request data: 
+
+15-07-2023 14:43:28  ----  Payment initiated...
+15-07-2023 14:43:28  ----  Environment: sandbox
+15-07-2023 14:43:28  ----  Cart ID: 7
+15-07-2023 14:43:28  ----  Customer ID: 3
+15-07-2023 14:43:28  ----  Currency ID: 1
+15-07-2023 14:43:28  ----  Cart Total: 1650
+15-07-2023 14:43:28  ----  Payment request data: 
+
+15-07-2023 14:44:00  ----  Payment initiated...
+15-07-2023 14:44:00  ----  Environment: sandbox
+15-07-2023 14:44:00  ----  Cart ID: 7
+15-07-2023 14:44:00  ----  Customer ID: 3
+15-07-2023 14:44:00  ----  Currency ID: 1
+15-07-2023 14:44:00  ----  Cart Total: 1650
+15-07-2023 14:44:00  ----  Payment request data: 
+
+15-07-2023 14:45:17  ----  Payment initiated...
+15-07-2023 14:45:17  ----  Environment: sandbox
+15-07-2023 14:45:17  ----  Cart ID: 7
+15-07-2023 14:45:17  ----  Customer ID: 3
+15-07-2023 14:45:17  ----  Currency ID: 1
+15-07-2023 14:45:17  ----  Cart Total: 1650
+15-07-2023 14:45:17  ----  Payment request data: 
+
+15-07-2023 14:45:30  ----  Payment initiated...
+15-07-2023 14:45:30  ----  Environment: sandbox
+15-07-2023 14:45:30  ----  Cart ID: 7
+15-07-2023 14:45:30  ----  Customer ID: 3
+15-07-2023 14:45:30  ----  Currency ID: 1
+15-07-2023 14:45:30  ----  Cart Total: 1650
+15-07-2023 14:45:30  ----  Payment request data: 
+
+15-07-2023 14:46:17  ----  Payment initiated...
+15-07-2023 14:46:17  ----  Environment: sandbox
+15-07-2023 14:46:17  ----  Cart ID: 7
+15-07-2023 14:46:17  ----  Customer ID: 3
+15-07-2023 14:46:17  ----  Currency ID: 1
+15-07-2023 14:46:17  ----  Cart Total: 1650
+15-07-2023 14:46:17  ----  Payment request data: 
+
+15-07-2023 14:47:16  ----  Payment initiated...
+15-07-2023 14:47:16  ----  Environment: sandbox
+15-07-2023 14:47:16  ----  Cart ID: 7
+15-07-2023 14:47:16  ----  Customer ID: 3
+15-07-2023 14:47:16  ----  Currency ID: 1
+15-07-2023 14:47:16  ----  Cart Total: 1650
+15-07-2023 14:47:16  ----  Payment request data: 
+
+15-07-2023 14:49:18  ----  Payment initiated...
+15-07-2023 14:49:18  ----  Environment: sandbox
+15-07-2023 14:49:18  ----  Cart ID: 7
+15-07-2023 14:49:18  ----  Customer ID: 3
+15-07-2023 14:49:18  ----  Currency ID: 1
+15-07-2023 14:49:18  ----  Cart Total: 1650
+15-07-2023 14:49:18  ----  Payment request data: 
+
+15-07-2023 14:49:40  ----  Payment initiated...
+15-07-2023 14:49:40  ----  Environment: sandbox
+15-07-2023 14:49:40  ----  Cart ID: 7
+15-07-2023 14:49:40  ----  Customer ID: 3
+15-07-2023 14:49:40  ----  Currency ID: 1
+15-07-2023 14:49:40  ----  Cart Total: 1650
+15-07-2023 14:49:40  ----  Payment request data: 
+
+15-07-2023 14:50:22  ----  Payment initiated...
+15-07-2023 14:50:22  ----  Environment: sandbox
+15-07-2023 14:50:22  ----  Cart ID: 7
+15-07-2023 14:50:22  ----  Customer ID: 3
+15-07-2023 14:50:22  ----  Currency ID: 1
+15-07-2023 14:50:22  ----  Cart Total: 1650
+15-07-2023 14:50:22  ----  Payment request data: 
+
+15-07-2023 14:51:01  ----  Payment initiated...
+15-07-2023 14:51:01  ----  Environment: sandbox
+15-07-2023 14:51:01  ----  Cart ID: 7
+15-07-2023 14:51:01  ----  Customer ID: 3
+15-07-2023 14:51:01  ----  Currency ID: 1
+15-07-2023 14:51:01  ----  Cart Total: 1650
+15-07-2023 14:51:01  ----  Payment request data: 
+
+15-07-2023 14:51:35  ----  Payment initiated...
+15-07-2023 14:51:35  ----  Environment: sandbox
+15-07-2023 14:51:35  ----  Cart ID: 7
+15-07-2023 14:51:35  ----  Customer ID: 3
+15-07-2023 14:51:35  ----  Currency ID: 1
+15-07-2023 14:51:35  ----  Cart Total: 1650
+15-07-2023 14:51:35  ----  Payment request data: 
+
+15-07-2023 14:52:39  ----  Payment initiated...
+15-07-2023 14:52:39  ----  Environment: sandbox
+15-07-2023 14:52:39  ----  Cart ID: 7
+15-07-2023 14:52:39  ----  Customer ID: 3
+15-07-2023 14:52:39  ----  Currency ID: 1
+15-07-2023 14:52:39  ----  Cart Total: 1650
+15-07-2023 14:52:39  ----  Payment request data: 
+
+15-07-2023 14:55:11  ----  Payment initiated...
+15-07-2023 14:55:11  ----  Environment: sandbox
+15-07-2023 14:55:11  ----  Cart ID: 7
+15-07-2023 14:55:11  ----  Customer ID: 3
+15-07-2023 14:55:11  ----  Currency ID: 1
+15-07-2023 14:55:11  ----  Cart Total: 1650
+15-07-2023 14:55:11  ----  Payment request data: 
+
+15-07-2023 14:56:26  ----  Payment initiated...
+15-07-2023 14:56:26  ----  Environment: sandbox
+15-07-2023 14:56:26  ----  Cart ID: 7
+15-07-2023 14:56:26  ----  Customer ID: 3
+15-07-2023 14:56:26  ----  Currency ID: 1
+15-07-2023 14:56:26  ----  Cart Total: 1650
+15-07-2023 14:56:26  ----  Payment request data: 
+
+15-07-2023 14:57:15  ----  Payment initiated...
+15-07-2023 14:57:15  ----  Environment: sandbox
+15-07-2023 14:57:15  ----  Cart ID: 7
+15-07-2023 14:57:15  ----  Customer ID: 3
+15-07-2023 14:57:15  ----  Currency ID: 1
+15-07-2023 14:57:15  ----  Cart Total: 1650
+15-07-2023 14:57:15  ----  Payment request data: 
+
+15-07-2023 14:57:56  ----  Payment initiated...
+15-07-2023 14:57:56  ----  Environment: sandbox
+15-07-2023 14:57:56  ----  Cart ID: 7
+15-07-2023 14:57:56  ----  Customer ID: 3
+15-07-2023 14:57:56  ----  Currency ID: 1
+15-07-2023 14:57:56  ----  Cart Total: 1650
+15-07-2023 14:57:56  ----  Payment request data: 
+
+15-07-2023 14:59:06  ----  Payment initiated...
+15-07-2023 14:59:06  ----  Environment: sandbox
+15-07-2023 14:59:06  ----  Cart ID: 7
+15-07-2023 14:59:06  ----  Customer ID: 3
+15-07-2023 14:59:06  ----  Currency ID: 1
+15-07-2023 14:59:06  ----  Cart Total: 1650
+15-07-2023 14:59:06  ----  Payment request data: 
+
+15-07-2023 15:02:11  ----  Payment initiated...
+15-07-2023 15:02:11  ----  Environment: sandbox
+15-07-2023 15:02:11  ----  Cart ID: 7
+15-07-2023 15:02:11  ----  Customer ID: 3
+15-07-2023 15:02:11  ----  Currency ID: 1
+15-07-2023 15:02:11  ----  Cart Total: 1650
+15-07-2023 15:02:11  ----  Payment request data: 
+
+15-07-2023 15:03:32  ----  Payment initiated...
+15-07-2023 15:03:32  ----  Environment: sandbox
+15-07-2023 15:03:32  ----  Cart ID: 7
+15-07-2023 15:03:32  ----  Customer ID: 3
+15-07-2023 15:03:32  ----  Currency ID: 1
+15-07-2023 15:03:32  ----  Cart Total: 1650
+15-07-2023 15:03:32  ----  Payment request data: 
+15-07-2023 15:03:32  ----  {"original":{"transaction_details":{"order_id":"INV-1689408212814","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}}
+
+15-07-2023 15:03:55  ----  Payment initiated...
+15-07-2023 15:03:55  ----  Environment: sandbox
+15-07-2023 15:03:55  ----  Cart ID: 7
+15-07-2023 15:03:55  ----  Customer ID: 3
+15-07-2023 15:03:55  ----  Currency ID: 1
+15-07-2023 15:03:55  ----  Cart Total: 1650
+15-07-2023 15:03:55  ----  Payment request data: 
+15-07-2023 15:03:55  ----  {"original":{"transaction_details":{"order_id":"INV-1689408235364","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}}
+
+15-07-2023 15:04:43  ----  Payment initiated...
+15-07-2023 15:04:43  ----  Environment: sandbox
+15-07-2023 15:04:43  ----  Cart ID: 7
+15-07-2023 15:04:43  ----  Customer ID: 3
+15-07-2023 15:04:43  ----  Currency ID: 1
+15-07-2023 15:04:43  ----  Cart Total: 1650
+15-07-2023 15:04:43  ----  Payment request data: 
+15-07-2023 15:04:43  ----  {"transaction_details":{"order_id":"INV-1689408283852","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 15:48:36  ----  {"transaction_details":{"order_id":"INV-1689410916142","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 15:55:52  ----  {"transaction_details":{"order_id":"INV-1689411352870","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 15:56:00  ----  {"transaction_details":{"order_id":"INV-1689411360988","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 15:56:08  ----  {"transaction_details":{"order_id":"INV-1689411368829","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 15:56:39  ----  {"transaction_details":{"order_id":"INV-1689411399857","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 15:57:29  ----  {"transaction_details":{"order_id":"INV-1689411449143","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:00:29  ----  {"transaction_details":{"order_id":"INV-1689411629594","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:02:43  ----  {"transaction_details":{"order_id":"INV-1689411763804","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:02:56  ----  {"transaction_details":{"order_id":"INV-1689411776189","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:06:10  ----  {"transaction_details":{"order_id":"INV-1689411970821","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:06:37  ----  {"transaction_details":{"order_id":"INV-1689411997888","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:07:40  ----  {"transaction_details":{"order_id":"INV-1689412060901","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:07:55  ----  {"transaction_details":{"order_id":"INV-1689412075296","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:08:11  ----  {"transaction_details":{"order_id":"INV-1689412091338","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:08:18  ----  {"transaction_details":{"order_id":"INV-1689412098589","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:09:17  ----  {"transaction_details":{"order_id":"INV-1689412157585","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:12:16  ----  {"transaction_details":{"order_id":"INV-1689412336727","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:13:08  ----  {"transaction_details":{"order_id":"INV-1689412388961","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:14:07  ----  {"transaction_details":{"order_id":"INV-1689412447381","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:15:42  ----  {"transaction_details":{"order_id":"INV-1689412542922","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:17:39  ----  {"transaction_details":{"order_id":"INV-1689412659699","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:20:13  ----  {"transaction_details":{"order_id":"INV-1689412813713","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:21:34  ----  {"transaction_details":{"order_id":"INV-1689412894284","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:22:19  ----  {"transaction_details":{"order_id":"INV-1689412939719","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:23:04  ----  {"transaction_details":{"order_id":"INV-1689412984217","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:23:37  ----  {"transaction_details":{"order_id":"INV-1689413017623","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:24:16  ----  {"transaction_details":{"order_id":"INV-1689413056876","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:24:46  ----  {"transaction_details":{"order_id":"INV-1689413086177","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:25:16  ----  {"transaction_details":{"order_id":"INV-1689413116776","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:26:08  ----  {"transaction_details":{"order_id":"INV-1689413168691","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:47:58  ----  {"transaction_details":{"order_id":"INV-1689414478712","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+15-07-2023 16:49:33  ----  {"transaction_details":{"order_id":"INV-1689414573184","gross_amount":2750},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+17-07-2023 12:50:08  ----  {"transaction_details":{"order_id":"INV-1689573008265","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+20-07-2023 17:35:29  ----  {"transaction_details":{"order_id":"INV-1689849329876","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+20-07-2023 17:36:12  ----  {"transaction_details":{"order_id":"INV-1689849372398","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+20-07-2023 17:46:15  ----  {"transaction_details":{"order_id":"INV-1689849975888","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+20-07-2023 17:48:11  ----  {"transaction_details":{"order_id":"INV-1689850091135","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 09:31:58  ----  {"transaction_details":{"order_id":"INV-1689906718386","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 09:47:18  ----  {"transaction_details":{"order_id":"INV-1689907638729","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 09:47:34  ----  {"transaction_details":{"order_id":"INV-1689907654816","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 09:59:23  ----  {"transaction_details":{"order_id":"INV-1689908363208","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 10:02:29  ----  {"transaction_details":{"order_id":"INV-1689908549191","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 10:03:12  ----  {"transaction_details":{"order_id":"INV-1689908592204","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:05:46  ----  {"transaction_details":{"order_id":"INV-1689912346630","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:05:58  ----  {"transaction_details":{"order_id":"INV-1689912358264","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:07:24  ----  {"transaction_details":{"order_id":"INV-1689912444294","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:10:19  ----  {"transaction_details":{"order_id":"INV-1689912619747","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:23:37  ----  {"transaction_details":{"order_id":"INV-1689913417382","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:30:27  ----  {"transaction_details":{"order_id":"INV-1689913827156","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:32:16  ----  {"transaction_details":{"order_id":"INV-1689913936924","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:33:37  ----  {"transaction_details":{"order_id":"INV-1689914017217","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:33:59  ----  {"transaction_details":{"order_id":"INV-1689914039673","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:34:22  ----  {"transaction_details":{"order_id":"INV-1689914062474","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:34:29  ----  {"transaction_details":{"order_id":"INV-1689914069774","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:35:22  ----  {"transaction_details":{"order_id":"INV-1689914122234","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:35:33  ----  {"transaction_details":{"order_id":"INV-1689914133525","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:35:46  ----  {"transaction_details":{"order_id":"INV-1689914146709","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:35:53  ----  {"transaction_details":{"order_id":"INV-1689914153913","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:36:01  ----  {"transaction_details":{"order_id":"INV-1689914161607","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 11:36:09  ----  {"transaction_details":{"order_id":"INV-1689914169907","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 14:47:46  ----  {"transaction_details":{"order_id":"INV-1689925666704","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 14:49:27  ----  {"transaction_details":{"order_id":"INV-1689925767339","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 14:49:34  ----  {"transaction_details":{"order_id":"INV-1689925774882","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 14:49:39  ----  {"transaction_details":{"order_id":"INV-1689925779985","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 14:49:47  ----  {"transaction_details":{"order_id":"INV-1689925787673","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 15:06:59  ----  {"transaction_details":{"order_id":"INV-1689926819240","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 15:25:47  ----  {"transaction_details":{"order_id":"INV-1689927947356","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+21-07-2023 15:26:55  ----  {"transaction_details":{"order_id":"INV-1689928015337","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:40:18  ----  {"transaction_details":{"order_id":"INV-1690162818598","gross_amount":0},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:41:04  ----  {"transaction_details":{"order_id":"INV-1690162864432","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:41:21  ----  {"transaction_details":{"order_id":"INV-1690162881973","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:43:30  ----  {"transaction_details":{"order_id":"INV-1690163010778","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:45:54  ----  {"transaction_details":{"order_id":"INV-1690163154743","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:46:21  ----  {"transaction_details":{"order_id":"INV-1690163181172","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:46:25  ----  {"transaction_details":{"order_id":"INV-1690163185838","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:46:41  ----  {"transaction_details":{"order_id":"INV-1690163201759","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:50:06  ----  {"transaction_details":{"order_id":"INV-1690163405757","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:50:19  ----  {"transaction_details":{"order_id":"INV-1690163419112","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+24-07-2023 08:53:40  ----  {"transaction_details":{"order_id":"INV-1690163620599","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"fatur","last_name":"rohman","email":"fatur@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:05:45  ----  {"transaction_details":{"order_id":"MidPay-1690776345651","gross_amount":35200},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:06:20  ----  {"transaction_details":{"order_id":"MidPay-1690776380453","gross_amount":35200},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:18:36  ----  {"transaction_details":{"order_id":"MidPay-1690777116817","gross_amount":35200},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:20:23  ----  {"transaction_details":{"order_id":"MidPay-1690777223700","gross_amount":35200},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:20:35  ----  {"transaction_details":{"order_id":"MidPay-1690777235207","gross_amount":35200},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:37:16  ----  {"transaction_details":{"order_id":"MidPay-1690778236119","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:39:15  ----  {"transaction_details":{"order_id":"MidPay-1690778355962","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:42:19  ----  {"transaction_details":{"order_id":"MidPay-1690778539534","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:43:29  ----  {"transaction_details":{"order_id":"MidPay-1690778609829","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:44:30  ----  {"transaction_details":{"order_id":"MidPay-1690778670786","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:44:58  ----  {"transaction_details":{"order_id":"MidPay-1690778698257","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:45:34  ----  {"transaction_details":{"order_id":"MidPay-1690778734429","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:50:15  ----  {"transaction_details":{"order_id":"MidPay-1690779015623","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:50:15  ----  {"transaction_details":{"order_id":"MidPay-1690779015190","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:51:17  ----  {"transaction_details":{"order_id":"MidPay-1690779077167","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:57:24  ----  {"transaction_details":{"order_id":"MidPay-1690779444886","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 11:57:48  ----  {"transaction_details":{"order_id":"MidPay-1690779468637","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 12:20:43  ----  {"transaction_details":{"order_id":"MidPay-1690780843161","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 12:37:45  ----  {"transaction_details":{"order_id":"MidPay-1690781865688","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 12:39:55  ----  {"transaction_details":{"order_id":"MidPay-1690781995383","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 12:43:16  ----  {"transaction_details":{"order_id":"MidPay-1690782196908","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 12:57:07  ----  {"transaction_details":{"order_id":"MidPay-1690783027284","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:31:37  ----  {"transaction_details":{"order_id":"MidPay-1690785097685","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:31:47  ----  {"transaction_details":{"order_id":"MidPay-1690785107126","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:32:08  ----  {"transaction_details":{"order_id":"MidPay-1690785128246","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:32:20  ----  {"transaction_details":{"order_id":"MidPay-1690785140291","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:32:39  ----  {"transaction_details":{"order_id":"MidPay-1690785159190","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:51:29  ----  {"transaction_details":{"order_id":"MidPay-1690786289556","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:52:08  ----  {"transaction_details":{"order_id":"MidPay-1690786328750","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 13:54:22  ----  {"transaction_details":{"order_id":"MidPay-1690786462656","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:04:31  ----  {"transaction_details":{"order_id":"MidPay-1690787071750","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:04:35  ----  {"transaction_details":{"order_id":"MidPay-1690787075550","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:05:45  ----  {"transaction_details":{"order_id":"MidPay-1690787145239","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:08:47  ----  {"transaction_details":{"order_id":"MidPay-1690787327675","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:10:54  ----  {"transaction_details":{"order_id":"MidPay-1690787454160","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:11:22  ----  {"transaction_details":{"order_id":"MidPay-1690787482444","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:11:45  ----  {"transaction_details":{"order_id":"MidPay-1690787505884","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:12:15  ----  {"transaction_details":{"order_id":"MidPay-1690787535409","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:14:29  ----  {"transaction_details":{"order_id":"MidPay-1690787669423","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:17:07  ----  {"transaction_details":{"order_id":"MidPay-1690787827976","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:20:50  ----  {"transaction_details":{"order_id":"MidPay-1690788050688","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:21:20  ----  {"transaction_details":{"order_id":"MidPay-1690788080314","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:22:02  ----  {"transaction_details":{"order_id":"MidPay-1690788122252","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:22:29  ----  {"transaction_details":{"order_id":"MidPay-1690788149449","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:23:15  ----  {"transaction_details":{"order_id":"MidPay-1690788195257","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:24:03  ----  {"transaction_details":{"order_id":"MidPay-1690788243805","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:24:23  ----  {"transaction_details":{"order_id":"MidPay-1690788263568","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:24:34  ----  {"transaction_details":{"order_id":"MidPay-1690788274368","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:26:12  ----  {"transaction_details":{"order_id":"MidPay-1690788372641","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:27:24  ----  {"transaction_details":{"order_id":"MidPay-1690788444389","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+31-07-2023 14:52:48  ----  {"transaction_details":{"order_id":"MidPay-1690789968567","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 11:57:24  ----  {"transaction_details":{"order_id":"MidPay-1690865844331","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:00:06  ----  {"transaction_details":{"order_id":"MidPay-1690866006608","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:00:38  ----  {"transaction_details":{"order_id":"MidPay-1690866038634","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:07:55  ----  {"transaction_details":{"order_id":"MidPay-1690866475981","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:08:25  ----  {"transaction_details":{"order_id":"MidPay-1690866505574","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:32:35  ----  {"transaction_details":{"order_id":"MidPay-1690867955851","gross_amount":0},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:33:18  ----  {"transaction_details":{"order_id":"MidPay-1690867998396","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:33:45  ----  {"transaction_details":{"order_id":"MidPay-1690868025595","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:34:37  ----  {"transaction_details":{"order_id":"MidPay-1690868077575","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:34:42  ----  {"transaction_details":{"order_id":"MidPay-1690868082427","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:35:15  ----  {"transaction_details":{"order_id":"MidPay-1690868115725","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 12:41:47  ----  {"transaction_details":{"order_id":"MidPay-1690868507851","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:19:40  ----  {"transaction_details":{"order_id":"MidPay-1690870780699","gross_amount":0},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:20:14  ----  {"transaction_details":{"order_id":"MidPay-1690870814140","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:24:08  ----  {"transaction_details":{"order_id":"MidPay-1690871048446","gross_amount":0},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:24:43  ----  {"transaction_details":{"order_id":"MidPay-1690871083223","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:28:05  ----  {"transaction_details":{"order_id":"MidPay-1690871285930","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:28:09  ----  {"transaction_details":{"order_id":"MidPay-1690871289489","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:29:11  ----  {"transaction_details":{"order_id":"MidPay-1690871351954","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:29:31  ----  {"transaction_details":{"order_id":"MidPay-1690871371239","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:33:39  ----  {"transaction_details":{"order_id":"MidPay-1690871619640","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:36:37  ----  {"transaction_details":{"order_id":"MidPay-1690871797420","gross_amount":0},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:37:05  ----  {"transaction_details":{"order_id":"MidPay-1690871825290","gross_amount":1650},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:37:40  ----  {"transaction_details":{"order_id":"MidPay-1690871860137","gross_amount":0},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+01-08-2023 13:38:10  ----  {"transaction_details":{"order_id":"MidPay-1690871890719","gross_amount":3300},"credit_card":{"secure":true},"customer_details":{"first_name":"aa","last_name":"aa","email":"aa@sekolahan.id","phone":"081772379894"}}
+02-08-2023 11:00:17  ----  {"transaction_details":{"order_id":"MidPay-1690948817521","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
+02-08-2023 13:50:05  ----  {"transaction_details":{"order_id":"MidPay-1690959005804","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
+02-08-2023 13:50:19  ----  {"transaction_details":{"order_id":"MidPay-1690959019624","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
+02-08-2023 14:26:01  ----  {"transaction_details":{"order_id":"MidPay-1690961161590","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
+02-08-2023 14:26:22  ----  {"transaction_details":{"order_id":"MidPay-1690961182133","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
+02-08-2023 14:44:22  ----  {"transaction_details":{"order_id":"MidPay-1690962262381","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
+02-08-2023 14:49:01  ----  {"transaction_details":{"order_id":"MidPay-1690962541558","gross_amount":1100},"credit_card":{"secure":true},"customer_details":{"first_name":"user","last_name":"testing","email":"usertesting@gmail.com","phone":"081772379894"}}
